@@ -5,4 +5,4 @@ High-density neural recordings from neuropixels probes require accurate spike de
 # Repository structure
 The repository contains all the Python code needed to process the data used to create and validate SafeStart. A brief description of each notebook file is given below. \
 **SpikesLS_main.ipynb** : Main notebook containing the code for the three solvers, hyperparameters investigation and impact of matrix size.\
-**plot_res.ipynb** : Produces all the results from the .csv files provided by the main notebook\
+**plot_res.ipynb** : Produces all the results from the .csv files provided by the main notebook.
